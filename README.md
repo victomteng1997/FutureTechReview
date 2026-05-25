@@ -2,7 +2,7 @@
 
 Static review site for crypto fintech and Bitcoin broker apps, built with Astro and ready for GitHub Pages.
 
-**Default URL**: `https://greydgl.github.io/FutureTechReview/`
+**Default URL**: `https://victomteng1997.github.io/FutureTechReview/`
 
 ## Local development
 
@@ -28,7 +28,7 @@ Push this project to a GitHub repository named `FutureTechReview` and enable Git
 Default deploy target:
 
 ```js
-const SITE_URL = 'https://greydgl.github.io';
+const SITE_URL = 'https://victomteng1997.github.io';
 const BASE_PATH = '/FutureTechReview';
 ```
 
